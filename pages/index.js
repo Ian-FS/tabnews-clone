@@ -1,6 +1,3 @@
-// import ImageNossa from "./ImagemNossa";
-import { ImagemNossa } from "../public/images/fotoNossa.png";
-
 function Home() {
   return (
     <div style={{ backgroundImage: "url(${ImageNossa})" }}>
